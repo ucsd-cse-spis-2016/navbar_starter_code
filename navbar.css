@@ -1,0 +1,21 @@
+/* a css file will be written sort of like a c file
+    it will be full of mini little "functions" 
+
+to give properties to a class the following format will be used:
+
+.nameOfClass{
+    property: value;
+}
+
+similarly for an id, but instead of the ".", it will use a #, as the following
+
+#nameOfId{
+    property: value;
+}
+
+you can also specify a class within an element, or an element
+if only clicked, or hovered over, etc etc.
+For a comprehensive list look at the following link:
+http://www.w3schools.com/cssref/css_selectors.asp
+
+*/
